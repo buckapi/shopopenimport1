@@ -31,13 +31,13 @@
     border-color: #08c;
 }
 .search-box-view .submit,.newsletter-box .submit{
-    background: #08c;
+    background: #363f4d;
 }
 .search-box-view .submit,.newsletter-box .submit:hover{
     color: #fff;
 }
 .header-list-menu > li > a,.header-list-menu > li i,.middle-menu-list > li> a{
-    color: #fff;
+    color: #08c;
 }
 .news-desc h3 span,.single-footer li:hover a,
 .pro-content h4:hover a,.single-categorie li a:hover{
@@ -57,7 +57,7 @@
     color: #08c;
 }
 .middle-menu-list > li:first-child >a,.middle-menu-list > li:hover >a{
-    color: #fff;
+    color: #08c;
 }
 .header-list-menu > li > ul.ht-dropdown > li:hover a,
 .megamenu-three-column > ul > li ul > li:hover > a,
@@ -77,14 +77,14 @@
     font-weight: 500;
 }
 .header-top.off-white-bg,.header-middle.white-bg{
-    background: #08c;
-    color: #fff;
+    background: #f8f9fa;
+    color: #08c;
 }
 .black-bg{
     background: #08c;
 }
 .search-box-style-three .email,.vertical-menu > span {
-    background: #0075b0;
+    background: #363f4d;
     color: #fff;
 }
 .vertical-menu-list{

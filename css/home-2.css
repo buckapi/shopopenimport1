@@ -5,42 +5,42 @@
 .blog-active .owl-nav div:hover,
 .random-pro-active .owl-nav div:hover,
 .testimonial__container .dcare-arrow:hover,.home-2-new-pro-active .owl-nav div:hover,.home-2 .best-seller-pro .owl-nav div:hover  {
-    border-color: #e5332b;
-    background: #e5332b;
+    border-color: #fed700;
+    background: #fed700;
     color: #fff;
 }
 .footer-social-content li a:hover{
-    background: #e5332b;
+    background: #fed700;
 }
 .footer-bottom-content p a:hover,.vertical-menu-list > li:hover > a{
-    color: #e5332b;
+    color: #fed700;
 }
 a:focus, a:hover,.category-sub li:hover a {
-    color: #e5332b;
+    color: #fed700;
 }
 .vertical-menu > span{
-    background: #1b3a6d;
+    background: #232f3e;
 }
 .header-top{
     border-bottom: 1px solid #394452
 }
 .header-top.off-white-bg,.header-middle.white-bg{
-    background: #1b3a6dcf;
+    background: #232f3e;
     color: #fff;
 }
 .vertical-menu-list{
-    border-color: #1b3a6d;
+    border-color: #232f3e;
 }
 .actions-primary a:hover,
 .actions-secondary a:hover,.single-categorie a.cat-link:hover {
-    background: #e5332b;
+    background: #fed700;
     color: #fff;
 }
 .testimonial__container .tes__img__slide .testimonial__img.slick-active.slick-center span,.testimonial__container .tes__img__slide .testimonial__img span:hover {
-    border-color: #e5332b;
+    border-color: #fed700;
 }
 .search-box-view .submit,.newsletter-box .submit{
-    background: #dc3545;
+    background: #fed700;
     color: #1a1a1a;
 }
 .search-box-view .submit,.newsletter-box .submit:hover{
@@ -55,11 +55,11 @@ a:focus, a:hover,.category-sub li:hover a {
 .catergorie-product .single-product .pro-content h4 a:hover,
 .cat-list li a:hover,
 .middle-menu-list > li > ul.ht-dropdown > li:hover > a {
-    color: #e5332b;
+    color: #fed700;
 }
 .cart-box > ul > li > a,.news-desc h3 span,.single-footer li:hover a,
 .pro-content h4:hover a,.single-categorie li a:hover{
-    color: #e5332b;
+    color: #fed700;
 }
 .cart-box > ul > li:hover > a{
     color: #fff;
@@ -69,10 +69,10 @@ a:focus, a:hover,.category-sub li:hover a {
     color: #fff;
 }
 .middle-menu-list > li:hover >a,.middle-menu-list > li > ul.ht-dropdown > li:hover > a,.middle-menu-list > li > ul.ht-dropdown li:hover> a{
-    color: #e5332b;
+    color: #fed700;
 }
 .count p{
-    background: #e5332b;
+    background: #fed700;
     color: #000;
 }
 .count span{

@@ -353,6 +353,7 @@
         padding-left: 0 0 0 15px;
         line-height: 30px;
         font-size: 18px;
+        color: #08c;
     }
     
 
@@ -491,13 +492,13 @@
         /*! margin-bottom: 20px; */
     }
     .header-bottom-style-two.header-bottom.black-bg {
-        background: #1b3a6dcf;
+        background: #232f3e;
     }
     .header-bottom-style-two .mean-container a.meanmenu-reveal {
         color: #fed700;
     }
     .header-bottom-style-two .mean-container a.meanmenu-reveal span {
-        background: #e5332b;
+        background: #fed700;
     }
     .home-3.header-bottom.black-bg {
         background: #e32727;

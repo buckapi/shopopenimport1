@@ -953,8 +953,8 @@ input[type="text"]#email-two::-webkit-input-placeholder {
  .blue-bg { background: #0162bd; }
  .light-blue-bg { background: #03a9f4; }
  .default-bg { background: #50C1F0; }
- .black-bg { background: #1b3a6d ;}
- .black-o-bg { background: #1b3a6d;}
+ .black-bg { background: #363f4d ;}
+ .black-o-bg { background: #232f3e;}
  .transparent-bg { background: transparent; }
 
 /*Opacity background*/

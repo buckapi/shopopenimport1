@@ -761,7 +761,7 @@ input#newsletter-permission {
 }
 
 .search-box-view .submit:hover {
-  background: #fed700;
+  background: #ea3a3c;
 }
 
 .main-cart-box {
@@ -774,7 +774,7 @@ input#newsletter-permission {
 }
 
 .cart-box ul li a span {
-  background: #fed700 none repeat scroll 0 0;
+  background: #ea3a3c none repeat scroll 0 0;
   border-radius: 100%;
   color: #fff;
   font-size: 10px;
@@ -4050,7 +4050,7 @@ legend {
   height: 40px;
   font-weight: 600;
   text-transform: uppercase;
-  background: #1b3a6d;
+  background: #4380db;
   z-index: 999;
 }
 
