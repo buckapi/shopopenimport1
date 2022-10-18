@@ -92,7 +92,7 @@ body {
 .border-default {
   border: 1px solid #ebebeb;
   border-radius: 3px;
-  padding-bottom: 30px;
+  padding-bottom: 20%;
 }
 
 .group-title h2 {
